@@ -1,7 +1,8 @@
+#!/usr/bin/env python3
 import subprocess
 from enum import Enum
 
-# TODO: Figure out what the rest of these are
+# Keycodes used in a normal 104-key US keyboard
 
 class Keycode(Enum):
     ESC = 9
@@ -58,6 +59,7 @@ class Keycode(Enum):
     PERIOD = 60
     SLASH = 61
     RIGHTSHIFT = 62
+    NUM_STAR = 63
     LEFTALT = 64
     SPACE = 65
     CAPSLOCK = 66
@@ -72,11 +74,26 @@ class Keycode(Enum):
     F9 = 75
     F10 = 76
     SCROLLLOCK = 78
+    NUM_SEVEN = 79
+    NUM_EIGHT = 80
+    NUM_NINE = 81
+    NUM_MINUS = 82
+    NUM_FOUR = 83
+    NUM_FIVE = 84
+    NUM_SIX = 85
+    NUM_PLUS = 86
+    NUM_ONE = 87
+    NUM_TWO = 88
+    NUM_THREE = 89
+    NUM_0 = 90
+    NUM_PERIOD = 91
     F11 = 95
     F12 = 96
+    NUM_ENTER = 104
     RIGHTCTRL = 105
+    NUM_SLASH = 106
     PRTSCN = 107
-    ALTGR = 108
+    RIGHTALT = 108
     HOME = 110
     UP = 111
     PGUP = 112
@@ -89,6 +106,7 @@ class Keycode(Enum):
     DELETE = 119
     PAUSE = 127
     LEFTSUPER = 133
+    RIGHTSUPER = 134
     MENU = 135
 
 

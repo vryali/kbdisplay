@@ -1,3 +1,8 @@
+# History
+- Pulled down [Tiyenti's repo](test.com) and modified to fix some bugs
+- Added [CrunchySlime's PR](https://github.com/Tiyenti/kbdisplay/pull/4) for azerty layout
+- Need to look at [yoshiyoshyosh's PR](https://github.com/Tiyenti/kbdisplay/pull/1)
+
 # kbdisplay
 This is essentially a Python clone of NohBoard which runs on Linux.
 Like distplay, I made this because there wasn't any pre-existing

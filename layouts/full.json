@@ -1,0 +1,846 @@
+{
+    "width": 1031,
+    "height": 313,
+	"rootbg": "#000066",
+	"bg1": "#777777",
+	"fg1": "#FFFFFF",
+	"bg2": "#FFFFFF",
+	"fg2": "#000000",
+	"fontfamily": "sans-serif",
+	"fontsize": "12",
+	"fontweight": "normal",
+    "buttons": [
+        {
+            "keycode": 9,
+            "x": 10,
+            "y": 10,
+            "width": 43,
+            "height": 43,
+            "text": "Esc"
+        },
+        {
+            "keycode": 67,
+            "x": 100,
+            "y": 10,
+            "width": 43,
+            "height": 43,
+            "text": "F1"
+        },
+        {
+            "keycode": 68,
+            "x": 145,
+            "y": 10,
+            "width": 43,
+            "height": 43,
+            "text": "F2"
+        },
+        {
+            "keycode": 69,
+            "x": 190,
+            "y": 10,
+            "width": 43,
+            "height": 43,
+            "text": "F3"
+        },
+        {
+            "keycode": 70,
+            "x": 235,
+            "y": 10,
+            "width": 43,
+            "height": 43,
+            "text": "F4"
+        },
+        {
+            "keycode": 71,
+            "x": 303,
+            "y": 10,
+            "width": 43,
+            "height": 43,
+            "text": "F5"
+        },
+        {
+            "keycode": 72,
+            "x": 348,
+            "y": 10,
+            "width": 43,
+            "height": 43,
+            "text": "F6"
+        },
+        {
+            "keycode": 73,
+            "x": 393,
+            "y": 10,
+            "width": 43,
+            "height": 43,
+            "text": "F7"
+        },
+        {
+            "keycode": 74,
+            "x": 438,
+            "y": 10,
+            "width": 43,
+            "height": 43,
+            "text": "F8"
+        },
+        {
+            "keycode": 75,
+            "x": 505,
+            "y": 10,
+            "width": 43,
+            "height": 43,
+            "text": "F9"
+        },
+        {
+            "keycode": 76,
+            "x": 550,
+            "y": 10,
+            "width": 43,
+            "height": 43,
+            "text": "F10"
+        },
+        {
+            "keycode": 95,
+            "x": 595,
+            "y": 10,
+            "width": 43,
+            "height": 43,
+            "text": "F11"
+        },
+        {
+            "keycode": 96,
+            "x": 640,
+            "y": 10,
+            "width": 43,
+            "height": 43,
+            "text": "F12"
+        },
+        {
+            "keycode": 107,
+            "x": 697,
+            "y": 10,
+            "width": 43,
+            "height": 43,
+            "text": "🖨"
+        },
+        {
+            "keycode": 78,
+            "x": 742,
+            "y": 10,
+            "width": 43,
+            "height": 43,
+            "text": "↕"
+        },
+        {
+            "keycode": 127,
+            "x": 787,
+            "y": 10,
+            "width": 43,
+            "height": 43,
+            "text": "⏸"
+        },
+        {
+            "keycode": 49,
+            "x": 10,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "~"
+        },
+        {
+            "keycode": 10,
+            "x": 55,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "1"
+        },
+        {
+            "keycode": 11,
+            "x": 100,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "2"
+        },
+        {
+            "keycode": 12,
+            "x": 145,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "3"
+        },
+        {
+            "keycode": 13,
+            "x": 190,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "4"
+        },
+        {
+            "keycode": 14,
+            "x": 235,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "5"
+        },
+        {
+            "keycode": 15,
+            "x": 280,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "6"
+        },
+        {
+            "keycode": 16,
+            "x": 325,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "7"
+        },
+        {
+            "keycode": 17,
+            "x": 370,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "8"
+        },
+        {
+            "keycode": 18,
+            "x": 415,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "9"
+        },
+        {
+            "keycode": 19,
+            "x": 460,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "0"
+        },
+        {
+            "keycode": 20,
+            "x": 505,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "-"
+        },
+        {
+            "keycode": 21,
+            "x": 550,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "="
+        },
+        {
+            "keycode": 22,
+            "x": 595,
+            "y": 78,
+            "width": 88,
+            "height": 43,
+            "text": "Bksp."
+        },
+        {
+            "keycode": 118,
+            "x": 697,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "Ins."
+        },
+        {
+            "keycode": 110,
+            "x": 742,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "⌂"
+        },
+        {
+            "keycode": 112,
+            "x": 787,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "PgUp"
+        },
+        {
+            "keycode": 77,
+            "x": 843,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "🔒"
+        },
+        {
+            "keycode": 106,
+            "x": 888,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "/"
+        },
+        {
+            "keycode": 63,
+            "x": 933,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "*"
+        },
+        {
+            "keycode": 82,
+            "x": 978,
+            "y": 78,
+            "width": 43,
+            "height": 43,
+            "text": "-"
+        },
+        {
+            "keycode": 23,
+            "x": 10,
+            "y": 123,
+            "width": 66,
+            "height": 43,
+            "text": "Tab"
+        },
+        {
+            "keycode": 24,
+            "x": 78,
+            "y": 123,
+            "width": 43,
+            "height": 43,
+            "text": "Q"
+        },
+        {
+            "keycode": 25,
+            "x": 123,
+            "y": 123,
+            "width": 43,
+            "height": 43,
+            "text": "W"
+        },
+        {
+            "keycode": 26,
+            "x": 168,
+            "y": 123,
+            "width": 43,
+            "height": 43,
+            "text": "E"
+        },
+        {
+            "keycode": 27,
+            "x": 213,
+            "y": 123,
+            "width": 43,
+            "height": 43,
+            "text": "R"
+        },
+        {
+            "keycode": 28,
+            "x": 258,
+            "y": 123,
+            "width": 43,
+            "height": 43,
+            "text": "T"
+        },
+        {
+            "keycode": 29,
+            "x": 303,
+            "y": 123,
+            "width": 43,
+            "height": 43,
+            "text": "Y"
+        },
+        {
+            "keycode": 30,
+            "x": 348,
+            "y": 123,
+            "width": 43,
+            "height": 43,
+            "text": "U"
+        },
+        {
+            "keycode": 31,
+            "x": 393,
+            "y": 123,
+            "width": 43,
+            "height": 43,
+            "text": "I"
+        },
+        {
+            "keycode": 32,
+            "x": 438,
+            "y": 123,
+            "width": 43,
+            "height": 43,
+            "text": "O"
+        },
+        {
+            "keycode": 33,
+            "x": 483,
+            "y": 123,
+            "width": 43,
+            "height": 43,
+            "text": "P"
+        },
+        {
+            "keycode": 34,
+            "x": 528,
+            "y": 123,
+            "width": 43,
+            "height": 43,
+            "text": "["
+        },
+        {
+            "keycode": 35,
+            "x": 573,
+            "y": 123,
+            "width": 43,
+            "height": 43,
+            "text": "]"
+        },
+        {
+            "keycode": 51,
+            "x": 618,
+            "y": 123,
+            "width": 65,
+            "height": 43,
+            "text": "|"
+        },
+        {
+            "keycode": 119,
+            "x": 697,
+            "y": 123,
+            "width": 43,
+            "height": 43,
+            "text": "Del"
+        },
+        {
+            "keycode": 115,
+            "x": 742,
+            "y": 123,
+            "width": 43,
+            "height": 43,
+            "text": "End"
+        },
+        {
+            "keycode": 117,
+            "x": 787,
+            "y": 123,
+            "width": 43,
+            "height": 43,
+            "text": "PgDn"
+        },
+        {
+            "keycode": 79,
+            "x": 843,
+            "y": 123,
+            "width": 43,
+            "height": 43,
+            "text": "7"
+        },
+        {
+            "keycode": 80,
+            "x": 888,
+            "y": 123,
+            "width": 43,
+            "height": 43,
+            "text": "8"
+        },
+        {
+            "keycode": 81,
+            "x": 933,
+            "y": 123,
+            "width": 43,
+            "height": 43,
+            "text": "9"
+        },
+        {
+            "keycode": 86,
+            "x": 978,
+            "y": 123,
+            "width": 43,
+            "height": 88,
+            "text": "+"
+        },
+        {
+            "keycode": 66,
+            "x": 10,
+            "y": 168,
+            "width": 77,
+            "height": 43,
+            "text": "Caps"
+        },
+        {
+            "keycode": 38,
+            "x": 89,
+            "y": 168,
+            "width": 43,
+            "height": 43,
+            "text": "A"
+        },
+        {
+            "keycode": 39,
+            "x": 134,
+            "y": 168,
+            "width": 43,
+            "height": 43,
+            "text": "S"
+        },
+        {
+            "keycode": 40,
+            "x": 179,
+            "y": 168,
+            "width": 43,
+            "height": 43,
+            "text": "D"
+        },
+        {
+            "keycode": 41,
+            "x": 224,
+            "y": 168,
+            "width": 43,
+            "height": 43,
+            "text": "F"
+        },
+        {
+            "keycode": 42,
+            "x": 269,
+            "y": 168,
+            "width": 43,
+            "height": 43,
+            "text": "G"
+        },
+        {
+            "keycode": 43,
+            "x": 314,
+            "y": 168,
+            "width": 43,
+            "height": 43,
+            "text": "H"
+        },
+        {
+            "keycode": 44,
+            "x": 359,
+            "y": 168,
+            "width": 43,
+            "height": 43,
+            "text": "J"
+        },
+        {
+            "keycode": 45,
+            "x": 404,
+            "y": 168,
+            "width": 43,
+            "height": 43,
+            "text": "K"
+        },
+        {
+            "keycode": 46,
+            "x": 449,
+            "y": 168,
+            "width": 43,
+            "height": 43,
+            "text": "L"
+        },
+        {
+            "keycode": 47,
+            "x": 494,
+            "y": 168,
+            "width": 43,
+            "height": 43,
+            "text": ":"
+        },
+        {
+            "keycode": 48,
+            "x": 539,
+            "y": 168,
+            "width": 43,
+            "height": 43,
+            "text": "'"
+        },
+        {
+            "keycode": 36,
+            "x": 584,
+            "y": 168,
+            "width": 99,
+            "height": 43,
+            "text": "Enter"
+        },
+        {
+            "keycode": 83,
+            "x": 843,
+            "y": 168,
+            "width": 43,
+            "height": 43,
+            "text": "4"
+        },
+        {
+            "keycode": 84,
+            "x": 888,
+            "y": 168,
+            "width": 43,
+            "height": 43,
+            "text": "5"
+        },
+        {
+            "keycode": 85,
+            "x": 933,
+            "y": 168,
+            "width": 43,
+            "height": 43,
+            "text": "6"
+        },
+        {
+            "keycode": 50,
+            "x": 10,
+            "y": 213,
+            "width": 99,
+            "height": 43,
+            "text": "Shift"
+        },
+        {
+            "keycode": 52,
+            "x": 111,
+            "y": 213,
+            "width": 43,
+            "height": 43,
+            "text": "Z"
+        },
+        {
+            "keycode": 53,
+            "x": 156,
+            "y": 213,
+            "width": 43,
+            "height": 43,
+            "text": "X"
+        },
+        {
+            "keycode": 54,
+            "x": 201,
+            "y": 213,
+            "width": 43,
+            "height": 43,
+            "text": "C"
+        },
+        {
+            "keycode": 55,
+            "x": 246,
+            "y": 213,
+            "width": 43,
+            "height": 43,
+            "text": "V"
+        },
+        {
+            "keycode": 56,
+            "x": 291,
+            "y": 213,
+            "width": 43,
+            "height": 43,
+            "text": "B"
+        },
+        {
+            "keycode": 57,
+            "x": 336,
+            "y": 213,
+            "width": 43,
+            "height": 43,
+            "text": "N"
+        },
+        {
+            "keycode": 58,
+            "x": 381,
+            "y": 213,
+            "width": 43,
+            "height": 43,
+            "text": "M"
+        },
+        {
+            "keycode": 59,
+            "x": 426,
+            "y": 213,
+            "width": 43,
+            "height": 43,
+            "text": ","
+        },
+        {
+            "keycode": 60,
+            "x": 471,
+            "y": 213,
+            "width": 43,
+            "height": 43,
+            "text": "."
+        },
+        {
+            "keycode": 61,
+            "x": 516,
+            "y": 213,
+            "width": 43,
+            "height": 43,
+            "text": "/"
+        },
+        {
+            "keycode": 62,
+            "x": 561,
+            "y": 213,
+            "width": 122,
+            "height": 43,
+            "text": "Shift"
+        },
+        {
+            "keycode": 111,
+            "x": 742,
+            "y": 213,
+            "width": 43,
+            "height": 43,
+            "text": "▲"
+        },
+        {
+            "keycode": 87,
+            "x": 843,
+            "y": 213,
+            "width": 43,
+            "height": 43,
+            "text": "1"
+        },
+        {
+            "keycode": 88,
+            "x": 888,
+            "y": 213,
+            "width": 43,
+            "height": 43,
+            "text": "2"
+        },
+        {
+            "keycode": 89,
+            "x": 933,
+            "y": 213,
+            "width": 43,
+            "height": 43,
+            "text": "3"
+        },
+        {
+            "keycode": 104,
+            "x": 978,
+            "y": 213,
+            "width": 43,
+            "height": 88,
+            "text": "Enter"
+        },
+        {
+            "keycode": 37,
+            "x": 10,
+            "y": 258,
+            "width": 53,
+            "height": 43,
+            "text": "Ctrl"
+        },
+        {
+            "keycode": 133,
+            "x": 65,
+            "y": 258,
+            "width": 53,
+            "height": 43,
+            "text": "Super"
+        },
+        {
+            "keycode": 64,
+            "x": 120,
+            "y": 258,
+            "width": 53,
+            "height": 43,
+            "text": "Alt"
+        },
+        {
+            "keycode": 65,
+            "x": 175,
+            "y": 258,
+            "width": 288,
+            "height": 43,
+            "text": "Space"
+        },
+        {
+            "keycode": 108,
+            "x": 465,
+            "y": 258,
+            "width": 53,
+            "height": 43,
+            "text": "Alt"
+        },
+        {
+            "keycode": 134,
+            "x": 520,
+            "y": 258,
+            "width": 53,
+            "height": 43,
+            "text": "Super"
+        },
+        {
+            "keycode": 135,
+            "x": 575,
+            "y": 258,
+            "width": 53,
+            "height": 43,
+            "text": "Menu"
+        },
+        {
+            "keycode": 105,
+            "x": 630,
+            "y": 258,
+            "width": 53,
+            "height": 43,
+            "text": "Ctrl"
+        },
+        {
+            "keycode": 113,
+            "x": 697,
+            "y": 258,
+            "width": 43,
+            "height": 43,
+            "text": "◀"
+        },
+        {
+            "keycode": 116,
+            "x": 742,
+            "y": 258,
+            "width": 43,
+            "height": 43,
+            "text": "▼"
+        },
+        {
+            "keycode": 114,
+            "x": 787,
+            "y": 258,
+            "width": 43,
+            "height": 43,
+            "text": "▶"
+        },
+        {
+            "keycode": 90,
+            "x": 843,
+            "y": 258,
+            "width": 88,
+            "height": 43,
+            "text": "0"
+        },
+        {
+            "keycode": 91,
+            "x": 933,
+            "y": 258,
+            "width": 43,
+            "height": 43,
+            "text": "."
+        }
+    ]
+}
