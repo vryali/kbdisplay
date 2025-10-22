@@ -1,7 +1,7 @@
 # History
 - Pulled down [Tiyenti's repo](test.com) and modified to fix some bugs
 - Added [CrunchySlime's PR](https://github.com/Tiyenti/kbdisplay/pull/4) for azerty layout
-- Need to look at [yoshiyoshyosh's PR](https://github.com/Tiyenti/kbdisplay/pull/1)
+- Added most of [yoshiyoshyosh's PR](https://github.com/Tiyenti/kbdisplay/pull/1) that removed hard-coded config and tied it to the layouts
 
 # kbdisplay
 This is essentially a Python clone of NohBoard which runs on Linux.
